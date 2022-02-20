@@ -1,7 +1,3 @@
 import React from 'react'
+import { App } from './App';
 
-export default function App() {
-  return (
-    <div>hello</div>
-  )
-}
