@@ -1,8 +1,8 @@
 import React from 'react';
-import './styles/global.css';
+import './styles/global.scss';
 
 export function App() {
   return (
-    <div>React JS</div>
+    <h1>React JS</h1>
   )
 }
